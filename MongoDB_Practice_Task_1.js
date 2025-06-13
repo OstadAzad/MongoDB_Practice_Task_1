@@ -48,7 +48,7 @@
 //answer: 6
 // db.test.updateOne({email : "amccurry3@cnet.com"},{$set : {"languages" : "Spanish"}})
 //or
-// db.test.updateOne({email : "amccurry3@cnet.com"},{$push : {"languages" : "Spanish"}})
+// db.test.updateOne({email : "amccurry3@cnet.com"},{$push : {"languages" : "Spanish"}})//it is the best
 //or
 // db.test.updateOne({email : "amccurry3@cnet.com"},{$addToSet : {"languages" : "Spanish"}})
 
